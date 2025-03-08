@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CSS3",
+		"GitGutter",
+		"Gitignore",
+		"Package Control",
+		"Prettierd Format",
+		"Pretty JSON",
+		"Pretty YAML Node",
+		"ProjectManager",
+		"RemoteOpen",
+		"rsub",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-contrib-dennis",
+		"SublimeLinter-contrib-markdownlint",
+		"SublimeLinter-contrib-perl",
+		"SublimeLinter-contrib-perlcritic",
+		"SublimeLinter-contrib-ruby-lint",
+		"SublimeLinter-contrib-yamllint",
+		"SublimeLinter-mdl",
+		"TOML",
+	],
+}
