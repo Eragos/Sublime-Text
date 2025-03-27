@@ -6,8 +6,10 @@
 	"installed_packages":
 	[
 		"CSS3",
+		"Git",
 		"GitGutter",
 		"Gitignore",
+		"Open In Browser",
 		"Package Control",
 		"Prettierd Format",
 		"Pretty JSON",
