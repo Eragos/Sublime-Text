@@ -8,5 +8,5 @@
     // Directories to disable formatting on save.
     "disabled_directories_on_save": ["*/node_modules/*"],
     // Path to prettierd binary, optional.
-    "prettierd_path": null
+    "prettierd_path": null,
 }
