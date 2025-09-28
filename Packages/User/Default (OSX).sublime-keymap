@@ -1,0 +1,24 @@
+[
+    {
+    "keys": ["ctrl+option+s"],
+    "command": "toggle_comment",
+    "args": { "block": false } 
+}
+,
+    {
+    "keys": ["ctrl+s"],
+    "command": "sort_lines",
+    "args": { "case_sensitive": false } 
+}
+,
+	{
+    "keys": ["ctrl+1"],
+    "command": "toggle_comment",
+    "args": { "block": false } 
+}
+,
+{   "keys": ["ctrl+shift+1"],
+    "command": "toggle_comment",
+    "args": { "block": true }
+}	
+]

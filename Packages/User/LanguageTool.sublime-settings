@@ -1,0 +1,15 @@
+{
+    "default_server": "local",
+    "display_mode": "panel",
+    "highlight-scope": "comment",
+    "ignored-scopes":
+    [
+        "support.function.*.latex",
+        "meta.*.latex",
+        "comment.*.tex",
+        "keyword.control.tex"
+    ],
+    "languagetool_jar": "C:\\bin\\LanguageTool-3.5\\languagetool.jar",
+    "languagetool_server_local": "https://lt.eragos.net/v2/check",
+    "languagetool_server_remote": "https://api.languagetool.org/v2/check"
+}

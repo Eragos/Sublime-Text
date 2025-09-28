@@ -1,12 +1,18 @@
 {
 	"ignored_packages":
 	[
+		"Pretty JSON",
+		"SideBarHider",
+		"SublimeLinter-contrib-ruby-lint",
+		"SublimeLinter-contrib-yaml-lint",
+		"SublimeLinter-contrib-yamllint",
+		"SublimeLinter-json",
 		"Vintage",
 	],
 	"font_size": 16,
 	"index_files": false,
-	"theme": "Solarized (dark).sublime-theme",
-	"color_scheme": "Solarized (dark).sublime-color-scheme",
+	"theme": "auto",
+	"color_scheme": "Mariana.sublime-color-scheme",
 	//"font_face": "Cascadia Code Light",
 	"font_face": "MonoLisa",
 	"font_options": [

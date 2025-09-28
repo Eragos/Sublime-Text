@@ -1,0 +1,17 @@
+// SublimeLinter Settings - User
+{
+    "debug": true,
+	"delay": 0.1,
+	"gutter_theme": "Default",
+	"lint_mode": ["on_load", "on_modified"],
+	
+	"linters": {
+        "languagetool": {
+        	"disable": true,
+            "server_url": "https://lt.eragos.net/v2/check",
+            "ignored_ids": [],
+            "debug": false,
+            "language": "de_DE",
+        },
+	}
+}
