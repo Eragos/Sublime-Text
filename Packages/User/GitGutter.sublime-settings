@@ -1,5 +1,8 @@
 // GitGutter Settings - User
 {
-	"git_binary": "/usr/bin/git",
+	"git_binary": "/opt/homebrew/bin/git",
 	"show_in_minimap": 1,
+	"compare_against": "main",
+	"ignore_whitespace": "true",
+	"line_annotation_ruler": 1,
 }
